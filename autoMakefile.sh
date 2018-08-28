@@ -1,5 +1,6 @@
 #!/bin/bash
-sur=$(ls *.c)
+
+src=$(ls *.c)
 cc=gcc
 bin=mytest
 
